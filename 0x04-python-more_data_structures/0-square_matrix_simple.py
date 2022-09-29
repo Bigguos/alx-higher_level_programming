@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-def square_matrix_simple(matrix=[])
+def square_matrix_simple(matrix=[]):
+    new_matrix == matrix ** 2
     for i in matrix:
-         for a in i:
-              return i ** 2
+         return new_matrix
 
